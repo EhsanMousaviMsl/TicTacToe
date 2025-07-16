@@ -23,4 +23,4 @@ A simple and interactive Tic-Tac-Toe game built using Swift and SwiftUI.
 
 1. Clone the repository:
    ```bash
-   https://github.com/EhsanMousaviMsl/Tic-Tac-Toe.git
+   https://github.com/EhsanMousaviMsl/TicTacToe.git
