@@ -13,6 +13,7 @@
 		0E7197BE2E27281000A592DE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E7197BD2E27281000A592DE /* Preview Assets.xcassets */; };
 		0E7197C52E27288C00A592DE /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7197C42E27288C00A592DE /* Cell.swift */; };
 		0E7197C72E27323700A592DE /* GameState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7197C62E27323700A592DE /* GameState.swift */; };
+		0E842AB62E29510F0003C4DF /* ModeSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E842AB52E29510F0003C4DF /* ModeSelectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		0E7197BD2E27281000A592DE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0E7197C42E27288C00A592DE /* Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell.swift; sourceTree = "<group>"; };
 		0E7197C62E27323700A592DE /* GameState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameState.swift; sourceTree = "<group>"; };
+		0E842AB52E29510F0003C4DF /* ModeSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModeSelectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0E7197B82E27280F00A592DE /* ContentView.swift */,
 				0E7197C62E27323700A592DE /* GameState.swift */,
 				0E7197C42E27288C00A592DE /* Cell.swift */,
+				0E842AB52E29510F0003C4DF /* ModeSelectionView.swift */,
 				0E7197BA2E27281000A592DE /* Assets.xcassets */,
 				0E7197BC2E27281000A592DE /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E842AB62E29510F0003C4DF /* ModeSelectionView.swift in Sources */,
 				0E7197B92E27280F00A592DE /* ContentView.swift in Sources */,
 				0E7197C72E27323700A592DE /* GameState.swift in Sources */,
 				0E7197B72E27280F00A592DE /* TicTacToeApp.swift in Sources */,
